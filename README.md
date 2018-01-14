@@ -1,2 +1,2 @@
 # Javascript-Todo
-A Todo application made with html5 and Javascript.
+A Todo application made to practice Javascript, only html5 and javascript without any backend 
